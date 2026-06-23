@@ -1,0 +1,4 @@
+interface:
+  display_name: "Possibility Lab"
+  short_description: "Capture and deduplicate ideas into a registry."
+  default_prompt: "Use $possibility-lab to record the strongest ideas from this conversation into my Idea Registry."
