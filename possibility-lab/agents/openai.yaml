@@ -1,4 +1,4 @@
 interface:
   display_name: "Possibility Lab"
-  short_description: "Capture and deduplicate ideas into a registry."
-  default_prompt: "Use $possibility-lab to record the strongest ideas from this conversation into my Idea Registry."
+  short_description: "Record ideas into a Feishu/Lark Base registry."
+  default_prompt: "Use $possibility-lab to scan this Chinese conversation, deduplicate ideas, run a dry-run, and prepare rows for my Feishu/Lark Idea Registry."

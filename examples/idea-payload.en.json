@@ -1,0 +1,18 @@
+[
+  {
+    "Title": "Project evidence review assistant",
+    "Raw idea": "Capture the key evidence, decisions, and outcomes from project delivery so future reviews are grounded in facts.",
+    "Theme": "Evidence over reporting",
+    "Recommended form": "agent workflow",
+    "Evidence level": "L1 intuition",
+    "Evidence": "Project teams often need to reconstruct why a decision was made.",
+    "Smallest validation": "Run one manual review on a completed project and capture 10 evidence-chain records.",
+    "Success signal": "Review time drops and future projects reuse prior evidence.",
+    "Failure signal": "The capture burden is too high or no one reads the review.",
+    "Upgrade condition": "Three projects reuse the workflow.",
+    "Next step": "Create a manual template and test it on one project.",
+    "Status": "material",
+    "Value type": "system",
+    "Tags": ["review", "evidence"]
+  }
+]
