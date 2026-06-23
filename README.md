@@ -1,5 +1,7 @@
 # Possibility Lab Skill
 
+可能性实验室 Skill 用来把对话、笔记、文档里的零散想法整理成可复查、可去重、带证据等级的飞书/Lark Base 创意注册表记录。默认使用中文字段，适合中文 Idea Registry、创意 backlog、项目候选池和个人/团队灵感库。
+
 Possibility Lab is a Codex skill for capturing raw ideas, deduplicating them against an existing Lark/Feishu Base, and turning them into concise, evidence-aware idea registry records.
 
 The default registry language is Chinese (`field_locale=zh`). English payload keys are accepted and mapped to Chinese fields.
@@ -20,6 +22,12 @@ Copy the skill folder into your Codex skills directory:
 ```bash
 mkdir -p ~/.codex/skills
 cp -R possibility-lab ~/.codex/skills/
+```
+
+Or run the installer:
+
+```bash
+./install.sh
 ```
 
 Then invoke it explicitly:
